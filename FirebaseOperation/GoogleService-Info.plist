@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>858944648853-19acu0jqjkq9bptvks2b9lrb34qplm02.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.858944648853-19acu0jqjkq9bptvks2b9lrb34qplm02</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARfJVWfgplpWvMbiTWyeQ_Lxawv8fSsSs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>858944648853</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JLM.FirebaseOperation</string>
+	<key>PROJECT_ID</key>
+	<string>supermarket-54c6b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>supermarket-54c6b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:858944648853:ios:ad1baa2c1f6559fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://supermarket-54c6b.firebaseio.com</string>
+</dict>
+</plist>
